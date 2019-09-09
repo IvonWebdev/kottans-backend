@@ -1,3 +1,4 @@
 # kottans-backend
 kottans backend lessons
-I hate kittens (evil)
+
+I am Vlad and I hate kittens (evil)
